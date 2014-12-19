@@ -29,5 +29,12 @@
     "mocha": "*",
     "should": "*"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "ansi": "^0.3.0",
+    "chalk": "^0.5.1",
+    "extend-shallow": "^0.2.0",
+    "repeat-string": "^1.1.0",
+    "template": "^0.6.1"
+  }
 }
