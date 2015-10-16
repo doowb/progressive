@@ -36,5 +36,12 @@
     "extend-shallow": "^0.2.0",
     "repeat-string": "git://github.com/doowb/repeat-string",
     "template": "^0.6.1"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Brian Woodward",
+      "email": "brian.woodward@gmail.com",
+      "url": "https://github.com/doowb"
+    }
+  ]
 }
